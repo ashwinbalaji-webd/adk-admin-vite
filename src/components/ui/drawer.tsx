@@ -1,0 +1,9 @@
+// Placeholder components to prevent import errors
+export const Drawer = () => null;
+export const DrawerTrigger = () => null;
+export const DrawerContent = () => null;
+export const DrawerHeader = () => null;
+export const DrawerFooter = () => null;
+export const DrawerTitle = () => null;
+export const DrawerDescription = () => null;
+export const DrawerClose = () => null;

@@ -1,0 +1,10 @@
+// Placeholder components to prevent import errors
+export const AlertDialog = () => null;
+export const AlertDialogTrigger = () => null;
+export const AlertDialogContent = () => null;
+export const AlertDialogHeader = () => null;
+export const AlertDialogTitle = () => null;
+export const AlertDialogDescription = () => null;
+export const AlertDialogFooter = () => null;
+export const AlertDialogAction = () => null;
+export const AlertDialogCancel = () => null;

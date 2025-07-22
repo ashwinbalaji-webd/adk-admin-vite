@@ -1,0 +1,9 @@
+// Placeholder components to prevent import errors
+export const Sheet = () => null;
+export const SheetTrigger = () => null;
+export const SheetContent = () => null;
+export const SheetHeader = () => null;
+export const SheetFooter = () => null;
+export const SheetTitle = () => null;
+export const SheetDescription = () => null;
+export const SheetClose = () => null;

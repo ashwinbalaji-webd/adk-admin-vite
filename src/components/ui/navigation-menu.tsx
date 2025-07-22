@@ -1,0 +1,10 @@
+// Placeholder components to prevent import errors
+export const NavigationMenu = () => null;
+export const NavigationMenuList = () => null;
+export const NavigationMenuItem = () => null;
+export const NavigationMenuContent = () => null;
+export const NavigationMenuTrigger = () => null;
+export const NavigationMenuLink = () => null;
+export const NavigationMenuIndicator = () => null;
+export const NavigationMenuViewport = () => null;
+export const navigationMenuTriggerStyle = () => "";
